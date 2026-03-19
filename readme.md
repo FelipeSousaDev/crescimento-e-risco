@@ -201,7 +201,7 @@ Abra os notebooks em `python/` na ordem e configure a string de conexão com seu
 
 **6. Abra o dashboard**
 
-Abra `03_dashboard/dashboard.pbix` no Power BI Desktop.
+Abra `dashboard/dashboard.pbix` no Power BI Desktop.
 
 ---
 
