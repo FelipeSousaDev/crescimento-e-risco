@@ -152,21 +152,21 @@ Três páginas com paleta de cores semântica: **azul = saudável / vermelho = r
 **Executive Overview**
 KPIs com comparativo YoY · Receita por Estado · Receita x Churn Rate (eixo duplo)
 
-![Executive Overview](03_dashboard/prints/executive_overview.png)
+![Visão Executiva](03_dashboard/prints/visao_executiva.png)
 
 ---
 
 **Risk Analysis**
 Pedidos perdidos por tipo de pagamento · Churn Rate por Estado · Evolução mensal do churn
 
-![Risk Analysis](03_dashboard/prints/risk_analysis.png)
+![Análise de Risco](03_dashboard/prints/analise_de_risco.png)
 
 ---
 
 **Growth & LTV**
 MoM Growth · Ticket Médio · Gráfico de área mensal · Matriz Cohort com heatmap
 
-![Growth LTV](03_dashboard/prints/growth_ltv.png)
+![Crescimento](03_dashboard/prints/crescimento.png)
 
 ---
 
